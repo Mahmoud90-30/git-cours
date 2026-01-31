@@ -22,7 +22,7 @@ int main() {
                 st.push(c);
         }
         else {
-            st.push(c);//(()))(
+            st.push(c);
         }
 
     }
@@ -30,4 +30,5 @@ int main() {
 
 
     return 0;
+
 }
